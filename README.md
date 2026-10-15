@@ -20,8 +20,7 @@ Simulations are an increasingly popular method of modelling cortical microtubule
 - CorticalSim (Eva Deinum)
 - CorticalSim3D (Bandan Chakrabortty, Ashlin Raj)
 - TimSim (Tim Tian)
-- Tubulaton (Tamsin Spelman)
-    - Under development; data not available yet
+- Tubulaton (Tamsin Spelman, Henrik Jönsson)
 
 ## Current Work
 This is ongoing work! We hope to have more results shortly.
@@ -35,7 +34,8 @@ Simulation outputs: CSV of 100 runs. First column is the time step (1 min). Subs
   - $S_2$ anisotropy 
   - $\Omega$ dominant angle
 
-### Directories
+Data and more info to follow soon.
+<!-- ### Directories
 
 Each geometry is given a directory. Within a geometry directory, the separate subdirectories contain outputs of each simulation. Not all simulations have been run for all geometries yet.
 
@@ -48,6 +48,6 @@ Each geometry is given a directory. Within a geometry directory, the separate su
     ├── corticalsim/
     ├── corticalsim3d/
     └── timsim/
-```
+``` -->
 ## Get Involved!
 Are you working on a CMT simulation? Feel free to contact any of us, compare outputs, and contribute!
